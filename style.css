@@ -1,4 +1,31 @@
-html {
-  height: 100%;
+#banner {
   width: 100%;
+}
+.principal{
+  background-color: #CCCCCC;
+  padding: 30px;
+}
+.titulo-principal {
+  padding-left: 30px;
+}
+p {
+  text-align: center;
+}
+em strong {
+  color: #FF0000;
+}
+
+#missao {
+  font-size: 28px;
+
+}
+ul{
+display:inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagem-beneficios{
+  width: 50%
 }
